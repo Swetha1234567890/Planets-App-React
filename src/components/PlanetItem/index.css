@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.image {
+  height: 150px;
+  width: 200px;
+}
+
+.name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
